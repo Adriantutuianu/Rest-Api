@@ -1,2 +1,1 @@
-HEAD http://github.com/adriantutuianu
-Authorization: Basic morten
+GET  http://github.com/adriantutuianu
